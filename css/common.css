@@ -187,3 +187,10 @@
 .container .info span .fa {
     color: #e74c3c;
 }
+
+.timeline-content small {
+    padding-bottom: 35px;
+}
+.timeline p {
+    margin-bottom: 15px;
+}
